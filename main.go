@@ -3,9 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"html-parser/link"
 	"os"
 	"strings"
+
+	"github.com/oivinig/html-parser/link"
 )
 
 const defaultFilePath = "./html_samples/sample1.html"
