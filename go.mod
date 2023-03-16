@@ -1,4 +1,4 @@
-module html-parser
+module github.com/oivinig/html-parser
 
 go 1.19
 
